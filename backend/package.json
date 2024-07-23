@@ -1,0 +1,19 @@
+{
+  "name": "week-4-backend-development-gideon-yebei",
+  "version": "1.0.0",
+  "description": "## Description: In this week, you will delve into backend development using server-side scripting with Node.js and Express.js. You will set up a basic Express.js server and create API endpoints for user authentication, expense management, and expense calculations. This will provide hands-on experience with backend development, API design, and routing using Express.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "sqlite3": "^5.1.7"
+  }
+}
